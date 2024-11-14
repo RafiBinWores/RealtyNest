@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/150",
+      "title": "Card 1",
+      "description": "This is the first card with a brief description."
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/150",
+      "title": "Card 2",
+      "description": "This is the second card featuring a short summary."
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/150",
+      "title": "Card 3",
+      "description": "This is the third card with a concise description."
+    },
+    {
+      "id": 4,
+      "image": "https://via.placeholder.com/150",
+      "title": "Card 4",
+      "description": "This is the fourth card with a brief overview."
+    },
+    {
+      "id": 5,
+      "image": "https://via.placeholder.com/150",
+      "title": "Card 5",
+      "description": "This is the fifth card providing a short introduction."
+    },
+    {
+      "id": 6,
+      "image": "https://via.placeholder.com/150",
+      "title": "Card 6",
+      "description": "This is the sixth card with a quick description."
+    }
+  ]
+  
